@@ -18,8 +18,6 @@ bool CommandProcessor::execute_command(const std::string &input_line){
 
   if(it != commands.end()){
     it->second->execute(arg);
-  }else if(command == "exit"){
-    return false;
   }else{
     std::cerr << format::color::RED << command << " : The term '" << command << "' is not recognized\n" << format::color::RESET;
   }

@@ -24,9 +24,7 @@ namespace TerminalInput{
   
   void redrawLine(const std::string &prompt, const std::string &input){
     std::cout << "\r";
-    std::cout << prompt << input;
-    std::cout << std::string(50, ' ');
-    std::cout << "\r" << prompt << input << std::flush;
+    std::cout << prompt << input << std::flush;
   }
 
   void setNonBlockingInput(bool enable){
