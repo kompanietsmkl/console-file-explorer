@@ -1,4 +1,5 @@
 #include "CommandProcessor.hpp"
+#include "utils/TextFormat.hpp"
 
 bool CommandProcessor::execute_command(const std::string &input_line){
   if (input_line.empty()) {

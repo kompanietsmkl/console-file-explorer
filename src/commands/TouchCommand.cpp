@@ -1,5 +1,10 @@
 #include "commands/TouchCommand.hpp"
+#include "utils/TextFormat.hpp"
+#include "utils/NameValidation.hpp"
 #include <algorithm>
+#include <iostream>
+#include <fstream>
+#include <filesystem>
 
 void TouchCommand::execute(const std::string &arg){
   std::filesystem::path name(arg);

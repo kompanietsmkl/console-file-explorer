@@ -3,5 +3,5 @@
 
 class MakeDirCommand: public Command{
 public:
-  void execute(const std::string &arg) override;
+  void execute(const std::string &) override;
 };

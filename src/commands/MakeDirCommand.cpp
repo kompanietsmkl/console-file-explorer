@@ -1,5 +1,9 @@
 #include "commands/MakeDirCommand.hpp"
+#include "utils/FilePermissions.hpp"
+#include "utils/NameValidation.hpp"
+#include "utils/TextFormat.hpp"
 #include <iostream>
+#include <filesystem>
 
 void MakeDirCommand::execute(const std::string &arg){
   auto path = std::filesystem::current_path().string();

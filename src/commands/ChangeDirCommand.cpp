@@ -1,4 +1,7 @@
 #include "commands/ChangeDirCommand.hpp"
+#include "utils/TextFormat.hpp"
+#include <filesystem>
+#include <iostream>
 
 void ChangeDirCommand::execute(const std::string &arg){
   std::filesystem::path new_path(arg);

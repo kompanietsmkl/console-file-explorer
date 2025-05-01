@@ -1,5 +1,9 @@
 #include "commands/RemoveFileCommand.hpp"
+#include "utils/TextFormat.hpp"
+#include "utils/NameValidation.hpp"
 #include <algorithm>
+#include <iostream>
+#include <filesystem>
 
 void RemoveFileCommand::execute(const std::string &arg){
   std::filesystem::path path(arg);

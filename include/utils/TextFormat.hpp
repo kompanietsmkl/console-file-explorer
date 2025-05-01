@@ -1,4 +1,5 @@
 #pragma once
+#include <string>
 
 namespace format::color{
   constexpr std::string_view RED = "\033[0;31m";

@@ -1,7 +1,7 @@
 #pragma once
 #include "Command.hpp"
 
-class PrintWorkingDirCommand: public Command{
+class TreeCommand: public Command{
 public:
   void execute(const std::string &) override;
 };

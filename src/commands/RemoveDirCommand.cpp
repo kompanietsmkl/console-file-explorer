@@ -1,5 +1,8 @@
 #include "commands/RemoveDirCommand.hpp"
+#include "utils/NameValidation.hpp"
+#include "utils/TextFormat.hpp"
 #include <iostream>
+#include <filesystem>
 
 void RemoveDirCommand::execute(const std::string &arg){
   if(PathUtils::is_valid_name(arg)){

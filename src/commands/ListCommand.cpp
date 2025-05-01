@@ -1,5 +1,7 @@
-#include <iostream>
 #include "commands/ListCommand.hpp"
+#include "utils/FileClock.hpp"
+#include "utils/FilePermissions.hpp"
+#include <iostream>
 
 std::string ListCommand::wo_quotes(const std::filesystem::path &path){
   std::string curr = path.filename().string();
