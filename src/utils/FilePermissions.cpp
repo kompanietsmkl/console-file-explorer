@@ -1,4 +1,4 @@
-#include "utils/FileUtils.hpp"
+#include "utils/FilePermissions.hpp"
 
 namespace FileUtils {
   std::string print_permissions(const std::filesystem::path& path) {

@@ -1,8 +1,9 @@
 #pragma once
-#include "utils/FileUtils.hpp"
-#include "utils/PathUtils.hpp"
-#include "utils/TimeUtils.hpp"
-#include "utils/FormatUtils.hpp"
+#include "utils/FilePermissions.hpp"
+#include "utils/NameValidation.hpp"
+#include "utils/FileClock.hpp"
+#include "utils/TerminalInput.hpp"
+#include "utils/TextFormat.hpp"
 #include <fstream>
 #include <string>
 #include <iostream>

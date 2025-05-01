@@ -61,6 +61,12 @@
     "stop_token": "cpp",
     "thread": "cpp",
     "list": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "bitset": "cpp",
+    "condition_variable": "cpp",
+    "cstdarg": "cpp",
+    "cstring": "cpp",
+    "regex": "cpp",
+    "mutex": "cpp"
   }
 }

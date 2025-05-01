@@ -1,0 +1,86 @@
+[
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/main.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/main.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/main.cpp",
+  "output": "CMakeFiles/file_explorer.dir/main.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/CommandProcessor.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/CommandProcessor.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/CommandProcessor.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/CommandProcessor.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/ChangeDirCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/ChangeDirCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/ChangeDirCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/ChangeDirCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/ClearCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/ClearCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/ClearCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/ClearCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/ListCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/ListCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/ListCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/ListCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/MakeDirCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/MakeDirCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/MakeDirCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/MakeDirCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/PrintWorkingDirCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/PrintWorkingDirCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/PrintWorkingDirCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/PrintWorkingDirCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/RemoveDirCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/RemoveDirCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/RemoveDirCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/RemoveDirCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/RemoveFileCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/RemoveFileCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/RemoveFileCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/RemoveFileCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/commands/TouchCommand.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/commands/TouchCommand.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/commands/TouchCommand.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/commands/TouchCommand.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/utils/FileClock.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/utils/FileClock.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/utils/FileClock.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/utils/FileClock.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/utils/FilePermissions.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/utils/FilePermissions.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/utils/FilePermissions.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/utils/FilePermissions.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/utils/NameValidation.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/utils/NameValidation.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/utils/NameValidation.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/utils/NameValidation.cpp.obj"
+},
+{
+  "directory": "X:/C++ projects/Pet projects/File_explorer/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/file_explorer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/file_explorer.dir/src/utils/TerminalInput.cpp.obj -c \"X:/C++ projects/Pet projects/File_explorer/src/utils/TerminalInput.cpp\"",
+  "file": "X:/C++ projects/Pet projects/File_explorer/src/utils/TerminalInput.cpp",
+  "output": "CMakeFiles/file_explorer.dir/src/utils/TerminalInput.cpp.obj"
+}
+]
